@@ -6,9 +6,9 @@ async function main() {
   const client = new speech.SpeechClient();
 
   /**
-   * TODO(developer): Uncomment the following lines before running the sample.
+   * Change the gcsUri to your file path
    */
-  const gcsUri = 'gs://teste-speech/audio01.wav';
+  const gcsUri = 'gs://teste-speech/carmela.wav';
   const encoding = 'WAV';
   const sampleRateHertz = 16000;
   const languageCode = 'pt-BR';
