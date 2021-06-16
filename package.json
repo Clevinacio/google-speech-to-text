@@ -1,0 +1,12 @@
+{
+  "name": "Google-speech",
+  "version": "1.0.0",
+  "description": "Speech-to-text-app",
+  "main": "index.js",
+  "author": "Clev",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/speech": "^4.5.2",
+    "global": "^4.4.0"
+  }
+}
