@@ -135,8 +135,6 @@ Also, you will need a Google Cloud account with Speech-to-Text API.
 
 In the code, you will have some comments to change the default URI to the archive you want and the path to the output file.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 
 
